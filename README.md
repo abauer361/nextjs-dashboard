@@ -7,3 +7,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 Can log in using:
 Email: user@nextmail.com
 Password: 123456
+
+Metadata:
+
+- Include favicon.ico and opengraph-image.jpg to your root folder
+  and these will automatically be identified as your favicon and OG image
+  More about Metadata here: https://nextjs.org/learn/dashboard-app/adding-metadata
